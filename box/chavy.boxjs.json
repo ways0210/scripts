@@ -267,7 +267,7 @@
       "name": "顺丰速运",
       "keys": ["chavy_login_sfexpress"],
       "author": "@ways0210",
-      "repo": "https://github.com/ways0210/Loon-/blob/master/js/Cookie",
+      "repo": "https://github.com/ways0210/Loon-/blob/master/js/cookie",
       "script": "https://raw.githubusercontent.com/ways0210/Loon-Js/master/js/sfexpress.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/sfexpress.png",
