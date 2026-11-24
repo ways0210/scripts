@@ -1,9 +1,9 @@
 {
-  "id": "chavyleung.app.sub",
-  "name": "chavyleung应用订阅",
-  "author": "@chavyleung",
+  "id": "ways0210.app.sub",
+  "name": "ways0210应用订阅",
+  "author": "@ways0210",
   "icon": "https://avatars3.githubusercontent.com/u/29748519?s=460&u=392a19e85465abbcb1791c9b8b32184a16e6795e&v=4",
-  "repo": "https://github.com/chavyleung/scripts",
+  "repo": "https://github.com/ways0210/scripts",
   "apps": [
     {
       "id": "10000",
@@ -21,9 +21,9 @@
           "desc": "以英文逗号分隔多个号码, 可加回车"
         }
       ],
-      "author": "@wangfei021325, @chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/blob/master/10000/10000.js",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js",
+      "author": "@wangfei021325, @ways0210",
+      "repo": "https://github.com/ways0210/scripts/blob/master/10000/10000.js",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/10000/10000.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/10000.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10000.png"
@@ -58,9 +58,9 @@
           "desc": "签到开关"
         }
       ],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/10010",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/10010",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/10010/10010.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/10010.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png"
@@ -100,9 +100,9 @@
           "desc": "每次并发间隔时间"
         }
       ],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/tieba",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/tieba",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/tieba/tieba.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/baidu.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/baidu.png"
@@ -112,9 +112,9 @@
       "id": "pagoda",
       "name": "百果园",
       "keys": ["chavy_sign_pagoda"],
-      "author": "@chavyleung",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/pagoda/pagoda.js",
-      "repo": "https://github.com/chavyleung/scripts/blob/master/pagoda",
+      "author": "@ways0210",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/pagoda/pagoda.js",
+      "repo": "https://github.com/ways0210/scripts/blob/master/pagoda",
       "icons": [
         "https://raw.githubusercontent.com/58xinian/icon/master/pagoda_mini.png",
         "https://raw.githubusercontent.com/58xinian/icon/master/pagoda.png"
@@ -129,8 +129,8 @@
         "senku_signbody_pandeng"
       ],
       "author": "@gideonsenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/fandeng",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/fandeng/fandeng.js",
+      "repo": "https://github.com/ways0210/scripts/tree/master/fandeng",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/fandeng/fandeng.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/fandeng.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/fandeng.png"
@@ -140,9 +140,9 @@
       "id": "gdoil",
       "name": "加油广东",
       "keys": ["chavy_signurl_gdoil", "chavy_signheader_gdoil"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/gdoil",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/gdoil/gdoil.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/gdoil",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/gdoil/gdoil.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/gdoil.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/gdoil.png"
@@ -196,28 +196,28 @@
           "desc": "每次间隔多少毫秒! 默认: 100"
         }
       ],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/jd",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/jd/jd.618.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/jd",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/jd/jd.618.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/jd.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
       ]
     },
     {
-      "id": "chavyleung.mgtv",
+      "id": "ways0210.mgtv",
       "name": "芒果TV",
       "keys": ["chavy_signurl_mgtv", "chavy_signheader_mgtv"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/blob/master/mgtv/mgtv.js",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/mgtv/mgtv.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/blob/master/mgtv/mgtv.js",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/mgtv/mgtv.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/mgtv.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/mgtv.png"
       ]
     },
     {
-      "id": "chavyleung.meituan",
+      "id": "ways0210.meituan",
       "name": "美团",
       "keys": [
         "chavy_tokenurl_meituan",
@@ -226,9 +226,9 @@
         "chavy_signheader_meituan",
         "chavy_signbody_meituan"
       ],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/blob/master/meituan/meituan.js",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/blob/master/meituan/meituan.js",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/meituan/meituan.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/meituan.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/meituan.png"
@@ -243,8 +243,8 @@
         "senku_signbody_qmkg"
       ],
       "author": "@gideonsenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/qmkg",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/qmkg/qmkg.js",
+      "repo": "https://github.com/ways0210/scripts/tree/master/qmkg",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/qmkg/qmkg.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/qmkg.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/qmkg.png"
@@ -254,9 +254,9 @@
       "id": "smzdm",
       "name": "什么值得买",
       "keys": ["chavy_cookie_smzdm"],
-      "author": "@wangfei021325, @chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/smzdm",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/smzdm.js",
+      "author": "@wangfei021325, @ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/smzdm",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/smzdm/smzdm.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/smzdm.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/smzdm.png"
@@ -266,9 +266,9 @@
       "id": "sfexpress",
       "name": "顺丰速运",
       "keys": ["chavy_login_sfexpress"],
-      "author": "@wangfei021325, @chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/blob/master/sfexpress",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js",
+      "author": "@ways0210, @ways0210",
+      "repo": "https://github.com/ways0210/scripts/blob/master/sfexpress",
+      "script": "https://raw.githubusercontent.com/ways0210/Loon-Js/master/js/sfexpress.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/sfexpress.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/sfexpress.png"
@@ -278,16 +278,16 @@
       "id": "flyertea",
       "name": "飞客茶馆",
       "keys": ["chavy_cookie_flyertea", "chavy_token_flyertea"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/flyertea",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/flyertea/flyertea.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/flyertea",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/flyertea/flyertea.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/flyertea.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/flyertea.png"
       ]
     },
     {
-      "id": "chavyleung.suning",
+      "id": "ways0210.suning",
       "name": "苏宁易购",
       "settings": [
         {
@@ -312,9 +312,9 @@
         "chavy_signgetgame_url_suning",
         "chavy_signgetgame_header_suning"
       ],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/blob/master/suning/suning.js",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/blob/master/suning/suning.js",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/suning/suning.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/suning.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/suning.png"
@@ -330,9 +330,9 @@
         "chavy_msign_url_videoqq",
         "chavy_msign_header_videoqq"
       ],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/videoqq",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/videoqq",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/videoqq/videoqq.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/videoqq.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/videoqq.png"
@@ -343,8 +343,8 @@
       "name": "万达电影",
       "keys": ["senku_wanda_mi_"],
       "author": "@gideonsenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/wanda",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/wanda/wanda.js",
+      "repo": "https://github.com/ways0210/scripts/tree/master/wanda",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/wanda/wanda.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/wanda.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/wanda.png"
@@ -355,8 +355,8 @@
       "name": "IT之家",
       "keys": ["senku_ithome_userHash"],
       "author": "@gideonsenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/ithome",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/ithome/ithome.js",
+      "repo": "https://github.com/ways0210/scripts/tree/master/ithome",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/ithome/ithome.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/ithome.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ithome.png"
@@ -367,8 +367,8 @@
       "name": "南方周末",
       "keys": ["senku_nfzm_url"],
       "author": "@gideonsenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/nfzm",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/nfzm/nfzm.js",
+      "repo": "https://github.com/ways0210/scripts/tree/master/nfzm",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/nfzm/nfzm.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/nfzm.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/nfzm.png"
@@ -378,9 +378,9 @@
       "id": "NeteaseNews",
       "name": "网易新闻",
       "keys": ["chavy_cookie_neteasenews", "chavy_body_neteasenews"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/neteasenews",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/neteasenews/neteasenews.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/neteasenews",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/neteasenews/neteasenews.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/neteasenews.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/neteasenews.png"
@@ -406,9 +406,9 @@
           "desc": "每次重试间隔时间 (毫秒)！"
         }
       ],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/neteasemusic",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/neteasemusic",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/neteasemusic/neteasemusic.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/neteasemusic.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/neteasemusic.png"
@@ -418,9 +418,9 @@
       "id": "feng",
       "name": "威锋网",
       "keys": ["chavy_login_feng"],
-      "author": "@wangfei021325, @chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/feng",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js",
+      "author": "@wangfei021325, @ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/feng",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/feng/feng.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/feng.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/feng.png"
@@ -434,10 +434,10 @@
         "chavy_signbody_noteyoudao",
         "chavy_signheaders_noteyoudao"
       ],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/noteyoudao",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/noteyoudao",
       "url": "https://apps.apple.com/cn/app/有道云笔记-扫描王版/id450748070",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/noteyoudao/noteyoudao.js",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/noteyoudao/noteyoudao.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/noteyoudao.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/noteyoudao.png"
@@ -461,8 +461,8 @@
         "senku_signbody_zxhc"
       ],
       "author": "@gideonsenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/zxhc",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.js",
+      "repo": "https://github.com/ways0210/scripts/tree/master/zxhc",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/zxhc/zxhc.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/zxhc.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/zxhc.png"
@@ -473,8 +473,8 @@
       "name": "同程旅行",
       "keys": ["tongcheng_trip_signheader"],
       "author": "@gideonsenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/tongcheng-trip",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/tongcheng-trip/tongcheng-trip.js",
+      "repo": "https://github.com/ways0210/scripts/tree/master/tongcheng-trip",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/tongcheng-trip/tongcheng-trip.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/tongcheng.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/tongcheng.png"
@@ -484,9 +484,9 @@
       "id": "AcFun",
       "name": "AcFun",
       "keys": ["chavy_cookie_acfun", "chavy_token_acfun"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/acfun",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/acfun",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/acfun/acfun.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/acfun.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/acfun.png"
@@ -496,10 +496,10 @@
       "id": "ApkTw",
       "name": "ApkTw",
       "keys": ["chavy_cookie_apktw"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/apktw",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/apktw",
       "url": "https://apk.tw/",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/apktw/apktw.js",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/apktw/apktw.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/apktw.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/apktw.png"
@@ -515,12 +515,12 @@
       ]
     },
     {
-      "id": "chavyleung.bilibili.live",
+      "id": "ways0210.bilibili.live",
       "name": "bilibili直播",
       "keys": ["chavy_cookie_bilibili"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/blob/master/bilibili/bilibili.js",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/blob/master/bilibili/bilibili.js",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/bilibili/bilibili.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/bilibili.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png"
@@ -530,9 +530,9 @@
       "id": "V2EX",
       "name": "V2EX",
       "keys": ["chavy_cookie_v2ex"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/v2ex",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/v2ex.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/v2ex",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/v2ex/v2ex.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/v2ex.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/v2ex.png"
@@ -551,9 +551,9 @@
           "desc": "每次邀请间隔时间"
         }
       ],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/wps",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/wps",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/wps/wps.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/wps.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/wps.png"
@@ -563,25 +563,25 @@
       "id": "ximalaya",
       "name": "喜马拉雅",
       "keys": ["chavy_cookie_ximalaya"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/ximalaya",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/ximalaya",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/ximalaya.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ximalaya.png"
       ],
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js"
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/ximalaya/ximalaya.js"
     },
     {
       "id": "everphoto",
       "name": "时光相册",
       "keys": ["chavy_sign_url_everphoto", "chavy_sign_header_everphoto"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/everphoto",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/tree/master/everphoto",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/everphoto.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/everphoto.png"
       ],
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/everphoto/everphoto.js"
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/everphoto/everphoto.js"
     },
     {
       "id": "testflight",
@@ -599,9 +599,9 @@
           "desc": "以英文逗号分隔多个号码"
         }
       ],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/blob/master/testflight",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/testflight/testflight.js",
+      "author": "@ways0210",
+      "repo": "https://github.com/ways0210/scripts/blob/master/testflight",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/testflight/testflight.js",
       "icons": [
         "https://raw.githubusercontent.com/githubdulong/Script/master/Images/testflight.png",
         "https://raw.githubusercontent.com/githubdulong/Script/master/Images/testflight.png"
@@ -628,8 +628,8 @@
         }
       ],
       "author": "@gideonsenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/follow",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/follow/follow.js",
+      "repo": "https://github.com/ways0210/scripts/tree/master/follow",
+      "script": "https://raw.githubusercontent.com/ways0210/scripts/master/follow/follow.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/follow.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/follow.png"
